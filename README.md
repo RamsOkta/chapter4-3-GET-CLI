@@ -1,6 +1,8 @@
 # get_cli
 
-A new Flutter project.
+video demo
+
+product_video: 'https://drive.google.com/file/d/1i0kkYJRvkJzeN-oGI_oCmSTu-2lkgzdy/view?usp=sharing'
 
 ## Getting Started
 
